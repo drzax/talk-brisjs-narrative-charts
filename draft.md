@@ -51,6 +51,13 @@ Fair warning, this is going to get quite complex. So complex in fact, that there
 
 If you have any questions--or even better, suggestions for how to do it better--please pipe up, or at least come and see me at the end.
 
+# [jLouvian](file:///Users/elverys7d/Projects/jLouvain/example/example.html)
+One core technique that this layout algorithm relies on is community detection.
+
+Just incase you're not familiar with the idea, it's basically a method of taking a whole bunch of nodes (or in this case characters), looking at the connections between them and the strength of those connections (in this case, the scenes they share) and finding smaller groups with in the whole.
+
+Back to the [algorithm](https://abcnews.github.io/d3-layout-narrative/#section-64).
+
 # [Another attempt](https://www.wikiwand.com/en/Stochastic_optimization)
 If I had to do it again, I'd be more trial and error about it.
 
